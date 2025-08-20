@@ -27,7 +27,7 @@ Open the project in your browser:
 ---
 
 ## 📸 Preview
-![Calculator Preview](https://github.com/your-username/calculator-demo.png)  
+![Calculator Preview](https://github.com/reezmahanan/calculator/blob/main/Screenshot%202025-08-20%20144210.png)  
 
 
 ---
