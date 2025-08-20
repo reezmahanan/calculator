@@ -1,6 +1,6 @@
 # 🧮 Responsive Black Calculator
 
-A modern, responsive calculator built using **HTML, CSS, and JavaScript**.  
+A modern, responsive calculator built using **HTML**.  
 This calculator features a sleek black UI with a glassmorphism effect, smooth button interactions, and support for basic arithmetic operations.
 
 ---
@@ -32,4 +32,3 @@ Open the project in your browser:
 
 ---
 
-## 📂 Project Structure
